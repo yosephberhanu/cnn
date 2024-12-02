@@ -7,7 +7,7 @@
 	- One of the earliest CNNs, designed for digit recognition (e.g., MNIST dataset).
 	- Simple architecture with convolutional layers, pooling layers, and fully connected layers.
 - __Use Case__: Handwritten digit classification.
-## 2. AlexNet (2012)
+## 2. [AlexNet (2012)](AlexNet/AlexNet.ipynb)
 
 - __Developed by__: [Alex Krizhevsky](https://en.wikipedia.org/wiki/Alex_Krizhevsky), [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever), and [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
 - __Key Features__:
